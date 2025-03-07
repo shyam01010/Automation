@@ -1,0 +1,14 @@
+package constants;
+
+public enum StrategyType {
+    ELEMENT_VISIBLE,
+    ELEMENT_CLICKABLE,
+    ELEMENT_INVISIBLE,
+    FRAME_AVAILABLE,
+    ELEMENT_SELECTED,
+    ELEMENT_PRESENT,
+    ALERT_PRESENT,
+    TITLE_TO_HAVE,
+    URL_TO_HAVE,
+    NONE
+}

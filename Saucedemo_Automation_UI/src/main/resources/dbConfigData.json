@@ -1,0 +1,34 @@
+{
+  "dbDetails":{
+    "qa":[
+      {
+        "dbURL":"jdbc:mysql://onp-aurora-qa-mysql8.cluster-ctexk6vnzkdo.ap-south-1.rds.amazonaws.com:3306/obs_otrim?autoReconnect=true&useSSL=false",
+        "dbUserName":"obsotrim_read",
+        "dbPassword":"OB4BOTR1MR51DUSR",
+        "executeQuery":"SELECT otp FROM obs_otrim.track_emailverification ORDER BY id DESC LIMIT 1"
+      }
+    ],
+    "sg":[
+      {
+        "dbURL":"jdbc:mysql://obs-aurora-mysql8-pprod-instance-1.cpsfcrueai27.us-east-1.rds.amazonaws.com:3306/obs_otrim?autoReconnect=true&useSSL=false",
+        "dbUserName":"preprod_readusr",
+        "dbPassword":"PREPR0DR51DSRDB",
+        "executeQuery":"SELECT otp FROM obs_otrim.track_emailverification ORDER BY id DESC LIMIT 1"
+      }
+    ],
+    "pt":[
+      {
+        "sshUsername":"centos",
+        "sshHost":"ec2-54-80-115-80.compute-1.amazonaws.com",
+        "sshPort":22,
+        "sshPrivateKeyPath":"D:\\SSHKEY\\obspprod.pem",
+        "ptDbURL":"oes-aurora-mysql8-testing-instance-1.cpsfcrueai27.us-east-1.rds.amazonaws.com",
+        "ptDbPort":3306,
+        "dbUserName":"qapfsec_readusr",
+        "dbPassword":"PFYKTRS5CJV84EQA",
+        "ptDbDatabase":"obs_otrim",
+        "executeQuery":"SELECT otp FROM obs_otrim.track_emailverification ORDER BY id DESC LIMIT 1"
+      }
+    ]
+  }
+}
