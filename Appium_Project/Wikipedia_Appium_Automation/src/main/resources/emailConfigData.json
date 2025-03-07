@@ -1,0 +1,19 @@
+{
+  "mailHost": "smtp.office365.com",
+  "hostEmailID": "automation-reports@onpassive.com",
+  "password": "Onpassive#539H876",
+  "smtpPort": "587",
+  "emailSubject": "_Automation_Execution_Report****",
+  "emailMessage": "Hi Team,\n\nGreeting of the Day !!!!\n\nPlease Find The Attached UI Automation Testing Execution Report. \n\n\n\nBest Regards,\nQA-Automation Team,\nON-PASSIVE Technologies Private Limited",
+
+  "emailUsers": [
+    "shyam.reddy@onpassive.com",
+    "anil.ikkurthi@onpassive.com",
+    "sudheer.katukoori@onpassive.com",
+    "krishnaveni.katikam@onpassive.com",
+    "prasad.vadali@onpassive.com",
+    "mena.mahesh@onpassive.com",
+    "veerababu.doolam@onpassive.com"
+  ]
+
+}
