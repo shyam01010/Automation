@@ -1,0 +1,43 @@
+/target/
+/test-output/
+HELP.md
+target/
+Logs/
+extent-test-output/
+
+!.mvn/wrapper/maven-wrapper.jar
+!*/src/main/*
+!*/src/test/*
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.temp*
+.json
+bin/
+.opt
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+/.apt_generated_tests/
+/doc/
