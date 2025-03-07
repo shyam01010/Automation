@@ -1,0 +1,94 @@
+{
+  "oTrimData": {
+    "qa": [
+      {
+        "dashboardPageNavigation": "https://obs-qa.onpassive.com/o-trim/dashboard",
+        "trimUrlPageNavigation": "https://obs-qa.onpassive.com/o-trim/trim-url",
+        "trimUrl": "https://www.onpassive.com/products/",
+        "trimUrlWithOtp": "https://www.w3schools.com/sql/default.asp",
+        "trimUrlWithOutOtp": "https://www.w3schools.com/php/default.asp",
+        "customUrlWithOtp": "https://www.w3schools.com/html/default.asp",
+        "customUrlWithOutOtp": "https://www.w3schools.com/css/default.asp",
+        "trimSpamUrl": "https://botmedia.github.io/scena-preview/index.html?src=https://www.nehnutelnosti.sk&widget=h7mjdrartoir",
+        "customSpamUrl": "https://botmedia.github.io/scena-preview/index.html?src=https://www.nehnutelnosti.sk&widget=h7mjdrartoir",
+        "brokenUrl": "https://trimurlqa.onpassive.com/kf",
+        "appendUrl": "https://www.javatpoint.com/"
+      }
+    ],
+    "sg": [
+      {
+        "dashboardPageNavigation": "https://ecosystem-tsg.onpassive.com/o-trim/dashboard",
+        "trimUrlPageNavigation": "https://ecosystem-tsg.onpassive.com/o-trim/trim-url",
+        "trimUrl": "https://www.onpassive.com/products/",
+        "trimUrlWithOtp": "https://www.w3schools.com/sql/default.asp",
+        "trimUrlWithOutOtp": "https://www.w3schools.com/php/default.asp",
+        "customUrlWithOtp": "https://www.w3schools.com/html/default.asp",
+        "customUrlWithOutOtp": "https://www.w3schools.com/css/default.asp",
+        "trimSpamUrl": "https://botmedia.github.io/scena-preview/index.html?src=https://www.nehnutelnosti.sk&widget=h7mjdrartoir",
+        "customSpamUrl": "https://botmedia.github.io/scena-preview/index.html?src=https://www.nehnutelnosti.sk&widget=h7mjdrartoir",
+        "brokenUrl": "https://trimurlqa.onpassive.com/kf",
+        "appendUrl": "https://www.javatpoint.com/"
+      }
+    ],
+    "pt": [
+      {
+        "dashboardPageNavigation": "https://ecosystem-tpt.onpassive.com/o-trim/dashboard",
+        "trimUrlPageNavigation": "https://ecosystem-tpt.onpassive.com/o-trim/trim-url",
+        "trimUrl": "https://www.onpassive.com/products/",
+        "trimUrlWithOtp": "https://www.w3schools.com/sql/default.asp",
+        "trimUrlWithOutOtp": "https://www.w3schools.com/php/default.asp",
+        "customUrlWithOtp": "https://www.w3schools.com/html/default.asp",
+        "customUrlWithOutOtp": "https://www.w3schools.com/css/default.asp",
+        "trimSpamUrl": "https://botmedia.github.io/scena-preview/index.html?src=https://www.nehnutelnosti.sk&widget=h7mjdrartoir",
+        "customSpamUrl": "https://botmedia.github.io/scena-preview/index.html?src=https://www.nehnutelnosti.sk&widget=h7mjdrartoir",
+        "brokenUrl": "https://trimurlqa.onpassive.com/kf",
+        "appendUrl": "https://www.javatpoint.com/"
+      }
+    ],
+    "st": [
+      {
+        "dashboardPageNavigation": "https://ecosystem-tst.onpassive.com/o-trim/dashboard",
+        "trimUrlPageNavigation": "https://ecosystem-tst.onpassive.com/o-trim/trim-url",
+        "trimUrl": "https://www.onpassive.com/products/",
+        "trimUrlWithOtp": "https://www.w3schools.com/sql/default.asp",
+        "trimUrlWithOutOtp": "https://www.w3schools.com/php/default.asp",
+        "customUrlWithOtp": "https://www.w3schools.com/html/default.asp",
+        "customUrlWithOutOtp": "https://www.w3schools.com/css/default.asp",
+        "trimSpamUrl": "https://botmedia.github.io/scena-preview/index.html?src=https://www.nehnutelnosti.sk&widget=h7mjdrartoir",
+        "customSpamUrl": "https://botmedia.github.io/scena-preview/index.html?src=https://www.nehnutelnosti.sk&widget=h7mjdrartoir",
+        "brokenUrl": "https://trimurlqa.onpassive.com/kf",
+        "appendUrl": "https://www.javatpoint.com/"
+      }
+    ],
+    "production": [
+      {
+        "dashboardPageNavigation": "https://ecosystem.onpassive.com/o-trim/dashboard",
+        "trimUrlPageNavigation": "https://ecosystem.onpassive.com/o-trim/trim-url",
+        "trimUrl": "https://www.onpassive.com/products/",
+        "trimUrlWithOtp": "https://www.w3schools.com/sql/default.asp",
+        "trimUrlWithOutOtp": "https://www.w3schools.com/php/default.asp",
+        "customUrlWithOtp": "https://www.w3schools.com/html/default.asp",
+        "customUrlWithOutOtp": "https://www.w3schools.com/css/default.asp",
+        "trimSpamUrl": "https://botmedia.github.io/scena-preview/index.html?src=https://www.nehnutelnosti.sk&widget=h7mjdrartoir",
+        "customSpamUrl": "https://botmedia.github.io/scena-preview/index.html?src=https://www.nehnutelnosti.sk&widget=h7mjdrartoir",
+        "brokenUrl": "https://trimurlqa.onpassive.com/kf",
+        "appendUrl": "https://www.javatpoint.com/"
+      }
+    ],
+    "demo": [
+      {
+        "dashboardPageNavigation": "https://trimurldemo.onpassive.com/o-trim/dashboard",
+        "trimUrlPageNavigation": "https://trimurldemo.onpassive.com/o-trim/trim-url",
+        "trimUrl": "https://www.onpassive.com/products/",
+        "trimUrlWithOtp": "https://www.w3schools.com/sql/default.asp",
+        "trimUrlWithOutOtp": "https://www.w3schools.com/php/default.asp",
+        "customUrlWithOtp": "https://www.w3schools.com/html/default.asp",
+        "customUrlWithOutOtp": "https://www.w3schools.com/css/default.asp",
+        "trimSpamUrl": "https://botmedia.github.io/scena-preview/index.html?src=https://www.nehnutelnosti.sk&widget=h7mjdrartoir",
+        "customSpamUrl": "https://botmedia.github.io/scena-preview/index.html?src=https://www.nehnutelnosti.sk&widget=h7mjdrartoir",
+        "brokenUrl": "https://trimurlqa.onpassive.com/kf",
+        "appendUrl": "https://www.javatpoint.com/"
+      }
+    ]
+  }
+}
